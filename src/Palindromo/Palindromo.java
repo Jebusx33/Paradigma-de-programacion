@@ -1,4 +1,4 @@
-package Palindromo;
+package palindromo;
 /**
  * caso base => cuando la palabra tiene un o nigun caracter
  * caso recursivo si laprimer letra y la ultima letra son iguales y ademas el interior es un palindromo 

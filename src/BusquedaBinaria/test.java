@@ -1,4 +1,4 @@
-package BusquedaBinaria;
+package busquedaBinaria;
 
 public class test {
 

@@ -1,4 +1,4 @@
-package LaEmpresaDeSoftware;
+package laEmpresaDeSoftware;
 
 public class Programador extends Persona {
      

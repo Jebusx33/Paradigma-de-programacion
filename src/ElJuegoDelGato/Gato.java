@@ -1,4 +1,4 @@
-package ElJuegoDelGato;
+package elJuegoDelGato;
 
 public class Gato {
 

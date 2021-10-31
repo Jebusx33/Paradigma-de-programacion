@@ -1,4 +1,4 @@
-package OrdenamientoQuickSort;
+package ordenamientoQuickSort;
 
 public class OrdenamientoQuickSortAscedente {
 	 public static void main(String[] args) {

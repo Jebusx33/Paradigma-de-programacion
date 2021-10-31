@@ -1,4 +1,4 @@
-package OrdenamientoPorSeleccion;
+package ordenamientoPorSeleccion;
 
 import java.util.Arrays;
 

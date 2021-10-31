@@ -1,4 +1,4 @@
-package LaEmpresaDeSoftware;
+package laEmpresaDeSoftware;
 
 public abstract class Persona  {
 	private String nombre;

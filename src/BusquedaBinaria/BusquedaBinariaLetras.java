@@ -1,4 +1,4 @@
-package BusquedaBinaria;
+package busquedaBinaria;
 
 /*
  *Ejercicio 2: Búsqueda Binaria de letras

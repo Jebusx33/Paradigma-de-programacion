@@ -1,4 +1,4 @@
-package LaEmpresaDeSoftware;
+package laEmpresaDeSoftware;
 
 import java.util.Scanner;
 

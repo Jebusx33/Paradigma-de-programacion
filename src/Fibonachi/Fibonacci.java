@@ -1,4 +1,4 @@
-package Fibonachi;
+package fibonachi;
 
 public class Fibonacci {
 	public static void main(String[] args) {

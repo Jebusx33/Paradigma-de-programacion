@@ -1,4 +1,4 @@
-package LaMaquinaDeCafe_POO;
+package laMaquinaDeCafe_POO;
 
 
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package OrdenarmientoPorInsercion;
+package ordenarmientoPorInsercion;
 /*
 Ejercicio 4: Ordenamiento por Inserción Descedente
 

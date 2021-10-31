@@ -1,4 +1,4 @@
-package Potenciacion;
+package potenciacion;
 /*
  * con Base 1 (si n=0) 
  * caso recursivo Base * BasE(n-1) (si n > 0) 

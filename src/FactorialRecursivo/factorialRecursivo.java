@@ -1,4 +1,4 @@
-package FactorialRecursivo;
+package factorialRecursivo;
 /*
  * factorial = n*(n-1)
  */

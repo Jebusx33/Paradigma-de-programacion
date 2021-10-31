@@ -1,4 +1,4 @@
-package BusquedaSecuencial;
+package busquedaSecuencial;
 
 public class busquedaSecuencial {
 

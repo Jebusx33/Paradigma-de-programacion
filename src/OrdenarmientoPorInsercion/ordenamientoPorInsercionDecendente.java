@@ -1,4 +1,4 @@
-package OrdenarmientoPorInsercion;
+package ordenarmientoPorInsercion;
 
 /*
   

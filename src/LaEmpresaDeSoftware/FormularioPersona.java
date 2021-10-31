@@ -1,4 +1,4 @@
-package LaEmpresaDeSoftware;
+package laEmpresaDeSoftware;
 
 public class FormularioPersona {
 	private String nombre;

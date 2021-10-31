@@ -1,4 +1,4 @@
-package Funciones;
+package funciones;
 
 public class a_funciones {
 public static void main(String[] args) {

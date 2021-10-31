@@ -1,4 +1,4 @@
-package El_Jefe_y_su_único_empleado;
+package el_Jefe_y_su_único_empleado;
 
 import java.util.Scanner;
 

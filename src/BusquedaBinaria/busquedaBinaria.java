@@ -1,4 +1,4 @@
-package BusquedaBinaria;
+package busquedaBinaria;
 /*
  * (log2)8=2^3
  * 

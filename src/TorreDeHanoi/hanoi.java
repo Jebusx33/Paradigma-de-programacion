@@ -1,4 +1,4 @@
-package TorreDeHanoi;
+package torreDeHanoi;
 
 public class hanoi {
 

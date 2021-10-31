@@ -14,7 +14,7 @@ En donde:
     1. Cargar Jefe debe pedirle al usuario el nombre y la edad del jefe y guardarlo en el sistema
     2. Contratar Empleado debe pedirle al usuario el nombre y la edad del empleado 
         ◦ Si el Jefe ya tenia cargado un empleado se debe imprimir un mensaje de error: 
-          "Error: Ya tiene un empleado contratado”
+          "Error: Ya tiene un empleado contratado�?
         ◦ Si se puede cargar el empleado exitosamente se debe imprimir: 
           "Se contrato al empleado con éxito"
     3. Despedir empleado debe des-asociar el empleado del jefe
@@ -37,7 +37,7 @@ Notas de Implemetación
       corré el test una única vez para ver como deben ser las salidas.
     • Para simplificar el ejercicio no se requieren validaciones. 
  */
-package El_Jefe_y_su_único_empleado;
+package el_Jefe_y_su_�nico_empleado;
 
 import java.util.Scanner;
 
