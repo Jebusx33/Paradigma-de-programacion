@@ -4,7 +4,7 @@ public class Programador extends Persona {
      
 	public Programador( String nombre, String apellido, String sexo, int edad, int sueldoFijoMensual) {	
 	super( nombre, apellido, sexo, edad, sueldoFijoMensual);
-	this.sueldoFijoMensual = sueldoFijoMensual;
+
 	}
 /*
 	@Override
@@ -22,7 +22,7 @@ public class Programador extends Persona {
 	}*/
 
 	public double calcularSueldo(){
-		double sueldoFijoMensual = this.sueldoFijoMensual;
+		double sueldoFijoMensual = getSueldoFijoMensual();
 		return sueldoFijoMensual;
 	}
  

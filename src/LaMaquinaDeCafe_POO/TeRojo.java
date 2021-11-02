@@ -16,6 +16,6 @@ public class TeRojo extends Te {
 
 	public double getPrecioBaseBebida() {
 		// TODO Auto-generated method stub
-		return precioBaseBebida * 1.15 * 1.15 + (precioAzucar * cantidadAzucar) + (precioLeche * cantidadLeche);
+		return precioBaseBebida * 1.15 * 1.15 + (precioAzucar* cantidadAzucar) + (precioLeche * cantidadLeche);
 	}
 }

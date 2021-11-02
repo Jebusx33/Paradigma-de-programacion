@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <class-diagram version="1.2.4" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
   associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
-  <class id="1" language="java" name="elProcesadorDePagosEstratégico.EstrategiaPagoVisa" 
+  <class id="1" language="java" name="elProcesadorDePagosEstratégico.EstrategiaPagoPaypal" 
+    project="Paradigma-de-programacion" 
+    file="/Paradigma-de-programacion/src/elProcesadorDePagosEstratégico/EstrategiaPagoPaypal.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="149" x="611" y="130"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="elProcesadorDePagosEstratégico.Inicializador" project="Paradigma-de-programacion" 
+    file="/Paradigma-de-programacion/src/elProcesadorDePagosEstratégico/Inicializador.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="153" width="285" x="286" y="130"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="elProcesadorDePagosEstratégico.EstrategiaPagoVisa" 
     project="Paradigma-de-programacion" 
     file="/Paradigma-de-programacion/src/elProcesadorDePagosEstratégico/EstrategiaPagoVisa.java" binary="false" 
     corner="BOTTOM_RIGHT">    
-    <position height="81" width="149" x="1321" y="99"/>    
+    <position height="99" width="136" x="800" y="130"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="2" language="java" name="elProcesadorDePagosEstratégico.EstrategiaDescuentoDiasHabiles" 
+  <class id="4" language="java" name="elProcesadorDePagosEstratégico.EstrategiaDescuentoFinDeSemana" 
     project="Paradigma-de-programacion" 
-    file="/Paradigma-de-programacion/src/elProcesadorDePagosEstratégico/EstrategiaDescuentoDiasHabiles.java" 
+    file="/Paradigma-de-programacion/src/elProcesadorDePagosEstratégico/EstrategiaDescuentoFinDeSemana.java" 
     binary="false" corner="BOTTOM_RIGHT">    
-    <position height="81" width="210" x="498" y="99"/>    
-    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
-      sort-features="false" accessors="true" visibility="true">      
-      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
-      <operations public="true" package="true" protected="true" private="true" static="true"/>    
-    </display>  
-  </class>  
-  <class id="3" language="java" name="elProcesadorDePagosEstratégico.ProcesadorPago" project="Paradigma-de-programacion" 
-    file="/Paradigma-de-programacion/src/elProcesadorDePagosEstratégico/ProcesadorPago.java" binary="false" 
-    corner="BOTTOM_RIGHT">    
-    <position height="153" width="272" x="1009" y="99"/>    
-    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
-      sort-features="false" accessors="true" visibility="true">      
-      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
-      <operations public="true" package="true" protected="true" private="true" static="true"/>    
-    </display>  
-  </class>  
-  <class id="4" language="java" name="elProcesadorDePagosEstratégico.EstrategiaPagoEfectivo" 
-    project="Paradigma-de-programacion" 
-    file="/Paradigma-de-programacion/src/elProcesadorDePagosEstratégico/EstrategiaPagoEfectivo.java" binary="false" 
-    corner="BOTTOM_RIGHT">    
-    <position height="81" width="156" x="1510" y="99"/>    
+    <position height="99" width="221" x="1484" y="130"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -48,90 +48,90 @@
     project="Paradigma-de-programacion" 
     file="/Paradigma-de-programacion/src/elProcesadorDePagosEstratégico/EstrategiaPago.java" binary="false" 
     corner="BOTTOM_RIGHT">    
-    <position height="63" width="149" x="1387" y="292"/>    
+    <position height="81" width="117" x="890" y="323"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </interface>  
-  <class id="6" language="java" name="elProcesadorDePagosEstratégico.EstrategiaDescuentoFinDeSemana" 
-    project="Paradigma-de-programacion" 
-    file="/Paradigma-de-programacion/src/elProcesadorDePagosEstratégico/EstrategiaDescuentoFinDeSemana.java" 
-    binary="false" corner="BOTTOM_RIGHT">    
-    <position height="81" width="221" x="748" y="99"/>    
-    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
-      sort-features="false" accessors="true" visibility="true">      
-      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
-      <operations public="true" package="true" protected="true" private="true" static="true"/>    
-    </display>  
-  </class>  
-  <class id="7" language="java" name="elProcesadorDePagosEstratégico.EstrategiaPagoPaypal" 
-    project="Paradigma-de-programacion" 
-    file="/Paradigma-de-programacion/src/elProcesadorDePagosEstratégico/EstrategiaPagoPaypal.java" binary="false" 
+  <class id="6" language="java" name="elProcesadorDePagosEstratégico.ProcesadorPago" project="Paradigma-de-programacion" 
+    file="/Paradigma-de-programacion/src/elProcesadorDePagosEstratégico/ProcesadorPago.java" binary="false" 
     corner="BOTTOM_RIGHT">    
-    <position height="81" width="149" x="1706" y="99"/>    
+    <position height="153" width="272" x="1172" y="130"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="8" language="java" name="elProcesadorDePagosEstratégico.Inicializador" project="Paradigma-de-programacion" 
-    file="/Paradigma-de-programacion/src/elProcesadorDePagosEstratégico/Inicializador.java" binary="false" 
-    corner="BOTTOM_RIGHT">    
-    <position height="153" width="285" x="173" y="99"/>    
-    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
-      sort-features="false" accessors="true" visibility="true">      
-      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
-      <operations public="true" package="true" protected="true" private="true" static="true"/>    
-    </display>  
-  </class>  
-  <interface id="9" language="java" name="elProcesadorDePagosEstratégico.EstrategiaDescuento" 
+  <interface id="7" language="java" name="elProcesadorDePagosEstratégico.EstrategiaDescuento" 
     project="Paradigma-de-programacion" 
     file="/Paradigma-de-programacion/src/elProcesadorDePagosEstratégico/EstrategiaDescuento.java" binary="false" 
     corner="BOTTOM_RIGHT">    
-    <position height="63" width="149" x="748" y="292"/>    
+    <position height="81" width="198" x="1484" y="323"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </interface>  
-  <association id="10">    
-    <end type="SOURCE" refId="3" navigable="false">      
-      <attribute id="11" name="estrategiaPago"/>      
-      <multiplicity id="12" minimum="0" maximum="1"/>    
+  <class id="8" language="java" name="elProcesadorDePagosEstratégico.EstrategiaPagoEfectivo" 
+    project="Paradigma-de-programacion" 
+    file="/Paradigma-de-programacion/src/elProcesadorDePagosEstratégico/EstrategiaPagoEfectivo.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="156" x="976" y="130"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="elProcesadorDePagosEstratégico.EstrategiaDescuentoDiasHabiles" 
+    project="Paradigma-de-programacion" 
+    file="/Paradigma-de-programacion/src/elProcesadorDePagosEstratégico/EstrategiaDescuentoDiasHabiles.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="210" x="1745" y="130"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <realization id="10">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="5"/>  
+  </realization>  
+  <association id="11">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="12" name="estrategiaPago"/>      
+      <multiplicity id="13" minimum="0" maximum="1"/>    
     </end>    
     <end type="TARGET" refId="5" navigable="true"/>    
     <display labels="true" multiplicity="true"/>  
   </association>  
-  <realization id="13">    
-    <end type="SOURCE" refId="7"/>    
-    <end type="TARGET" refId="5"/>  
-  </realization>  
   <realization id="14">    
-    <end type="SOURCE" refId="1"/>    
+    <end type="SOURCE" refId="3"/>    
     <end type="TARGET" refId="5"/>  
   </realization>  
   <association id="15">    
-    <end type="SOURCE" refId="3" navigable="false">      
+    <end type="SOURCE" refId="6" navigable="false">      
       <attribute id="16" name="estrategiaDescuento"/>      
       <multiplicity id="17" minimum="0" maximum="1"/>    
     </end>    
-    <end type="TARGET" refId="9" navigable="true"/>    
+    <end type="TARGET" refId="7" navigable="true"/>    
     <display labels="true" multiplicity="true"/>  
   </association>  
   <realization id="18">    
-    <end type="SOURCE" refId="6"/>    
-    <end type="TARGET" refId="9"/>  
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="7"/>  
   </realization>  
   <realization id="19">    
-    <end type="SOURCE" refId="2"/>    
-    <end type="TARGET" refId="9"/>  
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="7"/>  
   </realization>  
   <realization id="20">    
-    <end type="SOURCE" refId="4"/>    
+    <end type="SOURCE" refId="8"/>    
     <end type="TARGET" refId="5"/>  
   </realization>  
   <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 

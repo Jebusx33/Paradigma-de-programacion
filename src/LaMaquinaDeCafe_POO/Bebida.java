@@ -40,18 +40,15 @@ public abstract class Bebida {
 		return " con " + cantidadAzucar + " de azucar";
 	}
 
-	private double getPrecioAzucar() {
-		double precioxAzucar = precioAzucar;
-		return precioxAzucar;
-	}
 
 	private String getDescripcionLeche() {
 		return " y con " + cantidadLeche + " de leche : ";
 	}
-
-	private double getPrecioLeche() {
-		double precioxLeche = precioLeche;
-		return precioxLeche;
+    private double getPrecioLeche(){ 
+	  return precioLeche;
+    }
+	private double getPrecioAzucar(){
+		return precioAzucar;
 	}
 
 }

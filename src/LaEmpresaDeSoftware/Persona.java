@@ -5,8 +5,8 @@ public abstract class Persona  {
 	private String apellido;
 	private int edad;
 	private String sexo;
-	protected int sueldoFijoMensual;
-	protected int tipoEmpleado;
+	private int sueldoFijoMensual;
+	private int tipoEmpleado;
 	
 	public Persona(String nombre, String apellido, String sexo, int edad, int sueldoFijoMensual) {
 		this.nombre = nombre;
@@ -24,5 +24,15 @@ public abstract class Persona  {
     
     public abstract double calcularSueldo();
 	public abstract String obtenerTipoEmpleado();
+
+
+	public int getSueldoFijoMensual() {
+		return sueldoFijoMensual;
+	}
+
+
+	public int getTipoEmpleado() {
+		return tipoEmpleado;
+	}
 
 }

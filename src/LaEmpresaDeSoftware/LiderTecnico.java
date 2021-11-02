@@ -17,7 +17,7 @@ public class LiderTecnico extends Persona {
 	 */
 	@Override
 	public double calcularSueldo() {
-		double sueldoFijoMensual = this.sueldoFijoMensual;
+		double sueldoFijoMensual = getSueldoFijoMensual();
 		return sueldoFijoMensual + (sueldoFijoMensual  / (20*8)) * ( 2 * horasExtras);
 	}
 	

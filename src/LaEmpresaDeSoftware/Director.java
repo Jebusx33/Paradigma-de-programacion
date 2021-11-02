@@ -12,7 +12,7 @@ public class Director extends Persona {
 
 
 	public double calcularSueldo() {
-		double sueldoFijoMensual = this.sueldoFijoMensual;
+		double sueldoFijoMensual = getSueldoFijoMensual();
 		return sueldoFijoMensual * ((porcentajeAdicional / 100.0) + 1);
 	}
 
